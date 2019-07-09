@@ -8,9 +8,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import pluralsight.com.tabiangifts.databinding.FragmentViewProductBinding;
-import pluralsight.com.tabiangifts.models.Product;
-import pluralsight.com.tabiangifts.util.Products;
+import com.iappstogo.shoppingcart.databinding.FragmentViewProductBinding;
+import com.iappstogo.shoppingcart.models.Product;
+import com.iappstogo.shoppingcart.util.Products;
 
 
 /**
