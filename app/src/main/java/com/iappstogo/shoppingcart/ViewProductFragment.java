@@ -3,10 +3,11 @@ package com.iappstogo.shoppingcart;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
-import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import androidx.fragment.app.Fragment;
 
 import com.iappstogo.shoppingcart.databinding.FragmentViewProductBinding;
 import com.iappstogo.shoppingcart.models.Product;
@@ -17,7 +18,7 @@ import com.iappstogo.shoppingcart.util.Products;
  * Created by User on 2/6/2018.
  */
 
-public class ViewProductFragment extends Fragment{
+public class ViewProductFragment extends Fragment {
 
     private static final String TAG = "ViewProductFragment";
 
